@@ -229,6 +229,7 @@
 #define MAT_TAG_SteelBRB                     213
 #define MAT_TAG_PySimple3                    214
 #define MAT_TAG_PlateBearingConnectionThermal 215
+#define MAT_TAG_SteelFractureDI				216 // F. Galvis & Wen-Yi Yen
 
 
 #define MAT_TAG_FedeasMaterial    1000
